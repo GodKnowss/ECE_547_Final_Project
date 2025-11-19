@@ -25,3 +25,28 @@ We expect the greedy algorithm to:
 - Simulation-based performance evaluation
 - Testing across multiple network scenarios (varying load, topology, traffic patterns)
 - Metrics: Average AoI, Peak AoI, computational overhead
+
+## Progress
+
+### Implementation
+- [x] Kadota 2019 simulation
+- [x] Tripathi 2019 simulation
+- [Working] Greedy age algorithm implementation
+- [ ] Heuristic algorithm implementation
+- [ ] Performance comparison framework
+
+### Analysis & Results
+- [ ] Light traffic scenario results
+- [ ] Heavy traffic scenario results
+- [ ] Performance graphs and visualizations
+
+### Deliverables
+- [ ] Simulation report
+- [ ] Project poster
+- [ ] Final paper
+- [ ] Presentation video
+
+### Documentation
+- [x] GitHub repository setup
+- [x] README
+- [] Code documentation
