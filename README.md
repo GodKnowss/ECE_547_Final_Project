@@ -31,7 +31,7 @@ We expect the greedy algorithm to:
 ### Implementation
 - [x] Kadota 2019 simulation
 - [x] Tripathi 2019 simulation
-- [Working] Greedy age algorithm implementation
+- [x] Greedy age algorithm implementation
 - [ ] Heuristic algorithm implementation
 - [ ] Performance comparison framework
 
@@ -49,4 +49,4 @@ We expect the greedy algorithm to:
 ### Documentation
 - [x] GitHub repository setup
 - [x] README
-- [] Code documentation
+- [ ] Code documentation
