@@ -26,7 +26,7 @@ We expect the greedy algorithm to:
 - Testing across multiple network scenarios (varying load, topology, traffic patterns)
 - Metrics: Average AoI, Peak AoI, computational overhead
 
-## Progress
+## Progress (TODO List)
 
 ### Implementation
 - [x] Kadota 2019 simulation
