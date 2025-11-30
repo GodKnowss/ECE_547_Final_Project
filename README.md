@@ -23,21 +23,24 @@ We expect the greedy algorithm to:
 
 ## Methodology
 - Simulation-based performance evaluation
-- Testing across multiple network scenarios (varying load, topology, traffic patterns)
+- Online reliability estimation using an exponential moving average filter
 - Metrics: Average AoI, Peak AoI, computational overhead
 
 ## Progress (TODO List)
-
 ### Implementation
 - [x] Kadota 2019 simulation
 - [x] Tripathi 2019 simulation
 - [x] Greedy age algorithm implementation
+- [x] Online reliability estimator (Exponential Moving Average)
+- [x] Whittle Index with estimated reliability
 - [ ] Heuristic algorithm implementation
 - [ ] Performance comparison framework
 
 ### Analysis & Results
 - [ ] Light traffic scenario results
 - [ ] Heavy traffic scenario results
+- [ ] Estimator analysis
+- [ ] Performance comparison: True vs Estimated reliability
 - [ ] Performance graphs and visualizations
 
 ### Deliverables
@@ -50,3 +53,4 @@ We expect the greedy algorithm to:
 - [x] GitHub repository setup
 - [x] README
 - [ ] Code documentation
+- [ ] Estimator methodology documentation
