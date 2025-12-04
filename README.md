@@ -33,7 +33,7 @@ We expect the greedy algorithm to:
 - [x] Greedy age algorithm implementation
 - [x] Online reliability estimator (Exponential Moving Average)
 - [x] Whittle Index with estimated reliability
-- [ ] Heuristic algorithm implementation
+- [X] Heuristic algorithm implementation
 - [ ] Performance comparison framework
 
 ### Analysis & Results
