@@ -37,8 +37,6 @@ We expect the greedy algorithm to:
 - [ ] Performance comparison framework
 
 ### Analysis & Results
-- [ ] Light traffic scenario results
-- [ ] Heavy traffic scenario results
 - [ ] Estimator analysis
 - [ ] Performance comparison: True vs Estimated reliability
 - [ ] Performance graphs and visualizations
